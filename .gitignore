@@ -33,3 +33,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+/mumbleteams.ini
+/mumbleteams.log
+/smfauth.ini
+/smfauth.log
